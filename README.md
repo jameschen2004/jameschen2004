@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+📚 Currently taking an eCornell course on Machine Learning Foundations to strengthen my understanding of supervised learning, model evaluation, and data pipelines.
 <!--
 **jameschen2004/jameschen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 📚 Currently taking an eCornell course on Machine Learning Foundations to strengthen my understanding of supervised learning, model evaluation, and data pipelines.
+
+
+Contact info: jameschen200465@gmail.com
+[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 <!--
 **jameschen2004/jameschen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

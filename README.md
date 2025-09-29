@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚 Currently taking an eCornell course on Machine Learning Foundations to strengthen my understanding of supervised learning, model evaluation, and data pipelines.
+📚 Recently took an eCornell course on Machine Learning Foundations to strengthen my understanding of supervised learning, model evaluation, and data pipelines.
 
 
 Contact info: jameschen200465@gmail.com

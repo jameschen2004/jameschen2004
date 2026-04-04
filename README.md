@@ -1,6 +1,7 @@
 # Hi there, I'm James! 👋
 
 I'm a Computer Science, Chinese Translation, and Music student at CUNY Hunter College. I'm passionate about building software that bridges the gap between complex data and human experience whether it's through machine learning, full stack web apps, game development, or digital music tools.
+---
 
 ### 💻 Tools:
 - **Languages:** C++, Python, JavaScript, C#, SQL, HTML/CSS

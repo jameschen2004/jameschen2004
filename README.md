@@ -9,6 +9,3 @@ I'm a Computer Science, Chinese Translation, and Music student at CUNY Hunter Co
 - **Tools:** Git/GitHub, Unity, Google Cloud (GCP), Linux, Supabase, MariaDB
 - **Methodologies:** Agile/Scrum, Full-stack Development
 ---
-
-### 📬 Connect with me:
-- **LinkedIn:** [linkedin.com/in/jameschen2004/](https://linkedin.com/in/jameschen2004/)
